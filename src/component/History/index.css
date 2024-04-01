@@ -1,0 +1,40 @@
+.history-item {
+  background-color: #ececec;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: 10px;
+  padding: 5px;
+}
+
+.time {
+  color: #475569;
+  margin: 15px;
+  margin-right: 90px;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+}
+
+.title {
+  margin-left: 25px;
+}
+
+.domainUrl {
+  margin-left: 25px;
+  color: gray;
+}
+
+.deleteicon {
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+  margin-left: auto;
+}
+
+.lefft {
+  margin-left: auto;
+}
